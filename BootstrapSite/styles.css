@@ -1,0 +1,45 @@
+body {
+    background-color: white;
+    
+  }
+  h1 {
+    color: white;
+    text-align: left;
+    background-color: green;
+    padding-left: 1;
+  }
+  p{
+    color: black;
+    text-align: left;
+    font-weight: bold;
+
+  }
+  ul{
+    color:black;
+    text-indent: initial;
+    font-weight: bold;
+    padding-top: 0;
+
+  }
+  button{
+    background-color: gray;
+    color:white;
+    text-align: center;
+    border: none;
+    
+  }
+  html{
+    margin:0;
+    padding:0;
+    max-height:50vh;
+    overflow:hidden;
+  }
+  p2{
+   color:black;
+   
+   text-decoration: underline;
+   
+
+
+
+  }
